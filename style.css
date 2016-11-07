@@ -1,0 +1,81 @@
+#navigationLinks{
+	text-align: center;
+}
+#aboutLink, #contactsLink, #citiesLink{
+	text-align: center;
+}
+.nav>li{
+	text-align: center;
+}
+.nav>li>a:hover {
+    text-decoration: none;
+    background-color: #8EBED5;
+}
+
+#paragraphLinks{
+	display: inline;
+}
+.page-header{
+	text-align: center;
+	margin: 0;
+	background-color: #C9CCCA;
+	padding: 20px 0 35px;
+}
+.thumbnail img {
+	height: 400px;
+	margin: 0;
+}
+.panel-footer{
+	margin: 0;
+}
+img.smallSiteImage{
+	height: 200px;
+	width: 310px;
+	margin: 0;
+	padding: 0;
+}
+
+.col-sm-8, .col-sm-4, .col-sm-3{
+	padding: 0;
+}
+div.firstLargeImage{
+	background-image: url("GitHub_Project_Files\VillaPics\tuscany-villas-sant-anna.jpg");
+	background-size: cover;
+}
+
+#logo{
+	width: 80px;
+	height: 50px;
+}
+
+#navbar-collapse-1{
+	padding-left: 0;
+}
+.active{
+	background-color: #A39B8E
+}
+
+#largeHomepageHeader{
+	margin: 0;
+}
+small{
+	padding-top: 0;
+}
+
+.thumbnail{
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+body {
+    overflow-x: hidden;
+}
+.panel-footer{
+	background-color: #C9CCCA;
+}        
+div.panel.panel-default{
+	margin: 0;
+}
+.panel-body{
+	background-color: #DEDDDE;
+}
